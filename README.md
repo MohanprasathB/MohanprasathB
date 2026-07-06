@@ -1,5 +1,16 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mohanprasath%20B&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Embedded%20Firmware%20%26%20IoT%20Developer%20%7C%20Building%20the%20future%20of%20connected%20systems&descAlignY=62&descSize=16"/>
 
+## 📬 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohanprasath01/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/MohanprasathB)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mohanprasath@email.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=firefox&logoColor=white)](https://mohanprasath.netlify.app/)
+
+</div>
+
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=%F0%9F%9A%80+Embedded+Firmware+Developer;%F0%9F%8C%90+IoT+%7C+LoRaWAN+%7C+Wi-SUN+%7C+Bluetooth;%E2%98%81%EF%B8%8F+AWS+%7C+MQTT+%7C+Cloud+Integration;%F0%9F%9B%B0%EF%B8%8F+ISRO+%7C+BHEL+%7C+Triveni+Turbines)](https://git.io/typing-svg)
@@ -114,55 +125,6 @@ void motto() {
 
 </div>
 
----
-
-## 🔥 Streak Stats
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=MohanprasathB&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-
-[![Mohanprasath's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MohanprasathB&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github.com/MohanprasathB)
-
-</div>
-
----
-
-## 🏆 Trophy Wall
-
-<div align="center">
-
-[![Trophy](https://github-profile-trophy.vercel.app/?username=MohanprasathB&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)](https://github.com/MohanprasathB)
-
-</div>
-
----
-
-## 💼 Work Experience
-
-<details>
-<summary><b>🏢 Sarayu Infotech Solutions Pvt Ltd</b> — Embedded Firmware Developer (R&D) | May 2024 – Present | Bangalore, India</summary>
-
-<br/>
-
-> `C` `FreeRTOS` `STM32` `ESP32` `LoRaWAN` `Wi-SUN` `Bluetooth` `MQTT` `AWS` `Docker` `Modbus`
-
-- 🔭 Developed and deployed multi-protocol communication systems spanning **LoRaWAN, Wi-SUN, and Bluetooth**, enabling reliable long-range industrial communication across multiple clients
-- ☁️ Integrated IoT devices with cloud platforms including **AWS (EC2, S3, IoT Core)**, Azure, and Google Cloud for real-time data collection and analytics
-- ⚡ Built a scalable, low-latency IoT pipeline handling **1,000+ device messages/day** using MQTT, ensuring reliable edge-to-cloud data transmission
-- 🚀 Led cross-functional engineering teams delivering industrial embedded projects for prestigious clients: **ISRO Bangalore, Triveni Turbines, and BHEL**
-
-</details>
-
----
 
 ## 🚀 Featured Projects
 
@@ -194,42 +156,8 @@ void motto() {
 
 ---
 
-## 🎓 Education
 
-<div align="center">
 
-| Degree | Institution | Year | Score |
-|--------|-------------|------|-------|
-| 🎓 Bachelor of Engineering (B.E.) | Nandha Engineering College, Erode, Tamil Nadu | Nov 2020 – May 2024 | **CGPA: 9.32 / 10.00** |
-| 📚 Higher Secondary Education (HSE) | JKK Natraja Matric Hr. Sec. School, Erode | Jun 2018 – May 2020 | **83.3%** |
-| 📖 SSLC | Sri Vasavi Matric Hr. Sec. School, Erode | Jun 2016 – May 2018 | **90%** |
-
-</div>
-
----
-
-## 🧱 Currently Learning
-
-```
-🧱 Linux Internals      → Kernel modules, device drivers, memory management
-⚡ RTOS Optimization    → Task scheduling, ISR handling, low-power design
-🤖 Edge AI / TinyML    → Model quantization, deployment on STM32 / ESP32
-☁️  Azure IoT Hub       → Device provisioning, DPS, telemetry routing
-🔒 Embedded Security   → Secure boot, TLS mutual auth, firmware signing
-```
-
----
-
-## 📬 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohanprasath01/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/MohanprasathB)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mohanprasath@email.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=firefox&logoColor=white)](https://mohanprasath.netlify.app/)
-
-</div>
 
 ---
 
