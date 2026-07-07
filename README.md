@@ -1,14 +1,4 @@
----
 
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/MohanprasathB/MohanprasathB/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="100%"/>
-</div>
-
----
-
-## 📬 Connect With Me
 
 <div align="center">
 
@@ -146,7 +136,13 @@ void motto() {
 </div>
 
 ---
+## 🐍 Contribution Snake
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/MohanprasathB/MohanprasathB/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="100%"/>
+</div>
+
+---
 ## 🏅 Achievements
 
 <div align="center">
