@@ -1,4 +1,12 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mohanprasath%20B&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Embedded%20Firmware%20%26%20IoT%20Developer%20%7C%20Building%20the%20future%20of%20connected%20systems&descAlignY=62&descSize=16"/>
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/MohanprasathB/MohanprasathB/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="100%"/>
+</div>
+
+---
 
 ## 📬 Connect With Me
 
