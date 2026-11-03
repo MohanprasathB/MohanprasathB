@@ -8,13 +8,17 @@
 
 ## 🛠️ Tech Stack
 
-**Languages & RTOS**
+**Languages**
 
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![FreeRTOS](https://img.shields.io/badge/FreeRTOS-00A550?style=flat-square&logo=freertos&logoColor=white)
 ![Makefile](https://img.shields.io/badge/Makefile-064F8C?style=flat-square&logo=gnu&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+
+**Real-Time Operating System**
+
+![FreeRTOS](https://img.shields.io/badge/FreeRTOS-00A550?style=flat-square&logo=freertos&logoColor=white)
+![Zephyr](https://img.shields.io/badge/Zephyr-7E57C2?style=flat-square&logo=zephyrproject&logoColor=white)
 
 **Microcontrollers & Boards**
 
@@ -31,17 +35,44 @@
 **Hardware & Peripherals**
 
 ![SX1272](https://img.shields.io/badge/SX1272-00A3E0?style=flat-square&logo=semtech&logoColor=white)
+![P-NUCLEO-LRWAN3](https://img.shields.io/badge/P--NUCLEO--LRWAN3-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white)
+![DAC63508](https://img.shields.io/badge/DAC63508-CC0000?style=flat-square&logo=texasinstruments&logoColor=white)
+![W5500](https://img.shields.io/badge/W5500-00796B?style=flat-square&logoColor=white)
+![GPS NEO-6M](https://img.shields.io/badge/GPS_NEO--6M-2E7D32?style=flat-square&logoColor=white)
 ![Wi-SUN FAN](https://img.shields.io/badge/Wi--SUN_FAN-0066CC?style=flat-square&logoColor=white)
 ![WiFi](https://img.shields.io/badge/WiFi-0082FC?style=flat-square&logo=wifi&logoColor=white)
 ![LTE EC200U-CN](https://img.shields.io/badge/LTE_EC200U--CN-E60012?style=flat-square&logoColor=white)
 
-**Communication & Network Protocols**
+**Communication Protocols**
 
+![UART](https://img.shields.io/badge/UART-455A64?style=flat-square&logoColor=white)
+![SPI](https://img.shields.io/badge/SPI-455A64?style=flat-square&logoColor=white)
+![I2C](https://img.shields.io/badge/I2C-455A64?style=flat-square&logoColor=white)
+![Ethernet](https://img.shields.io/badge/Ethernet-455A64?style=flat-square&logoColor=white)
+![Modbus RTU](https://img.shields.io/badge/Modbus_RTU-455A64?style=flat-square&logoColor=white)
+![RS232](https://img.shields.io/badge/RS232-455A64?style=flat-square&logoColor=white)
+![RS485](https://img.shields.io/badge/RS485-455A64?style=flat-square&logoColor=white)
+![USB](https://img.shields.io/badge/USB-455A64?style=flat-square&logo=usb&logoColor=white)
+![OPC UA](https://img.shields.io/badge/OPC_UA-455A64?style=flat-square&logoColor=white)
+![CAN](https://img.shields.io/badge/CAN-455A64?style=flat-square&logoColor=white)
+![LIN](https://img.shields.io/badge/LIN-455A64?style=flat-square&logoColor=white)
+
+**Network Protocols**
+
+![Ethernet](https://img.shields.io/badge/Ethernet-0066CC?style=flat-square&logoColor=white)
 ![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white)
+![SMTP](https://img.shields.io/badge/SMTP-0066CC?style=flat-square&logoColor=white)
+![SNTP](https://img.shields.io/badge/SNTP-0066CC?style=flat-square&logoColor=white)
+![HTTP](https://img.shields.io/badge/HTTP-0066CC?style=flat-square&logoColor=white)
+![HTTPS](https://img.shields.io/badge/HTTPS-0066CC?style=flat-square&logoColor=white)
+![CoAP](https://img.shields.io/badge/CoAP-0066CC?style=flat-square&logoColor=white)
+![TLS/SSL](https://img.shields.io/badge/TLS%2FSSL-0066CC?style=flat-square&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socketdotio&logoColor=white)
+![AMQP](https://img.shields.io/badge/AMQP-0066CC?style=flat-square&logoColor=white)
+![Modbus TCP/IP](https://img.shields.io/badge/Modbus_TCP%2FIP-0066CC?style=flat-square&logoColor=white)
 ![LoRaWAN](https://img.shields.io/badge/LoRaWAN-0066CC?style=flat-square&logo=semtech&logoColor=white)
 ![Bluetooth](https://img.shields.io/badge/Bluetooth-0082FC?style=flat-square&logo=bluetooth&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socketdotio&logoColor=white)
 
 **Cloud & DevOps**
 
