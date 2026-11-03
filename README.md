@@ -11,15 +11,29 @@
 **Languages & RTOS**
 
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![FreeRTOS](https://img.shields.io/badge/FreeRTOS-00A550?style=flat-square&logo=freertos&logoColor=white)
 ![Makefile](https://img.shields.io/badge/Makefile-064F8C?style=flat-square&logo=gnu&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 
-**Microcontrollers & Hardware**
+**Microcontrollers & Boards**
 
-![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
+![Nucleo L476RG](https://img.shields.io/badge/Nucleo--L476RG-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white)
+![Nucleo H745ZI-Q](https://img.shields.io/badge/Nucleo--H745ZI--Q-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white)
+![ESP32 WROOM-1](https://img.shields.io/badge/ESP32_WROOM--1-E7352C?style=flat-square&logo=espressif&logoColor=white)
+![ESP8266 12E](https://img.shields.io/badge/ESP8266_12E-E7352C?style=flat-square&logo=espressif&logoColor=white)
+![Raspberry Pi 4B](https://img.shields.io/badge/Raspberry_Pi_4B-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
+![Arduino Uno](https://img.shields.io/badge/Arduino_Uno-00979D?style=flat-square&logo=arduino&logoColor=white)
+![Arduino Nano](https://img.shields.io/badge/Arduino_Nano-00979D?style=flat-square&logo=arduino&logoColor=white)
+![Arduino Leonardo](https://img.shields.io/badge/Arduino_Leonardo-00979D?style=flat-square&logo=arduino&logoColor=white)
+![Wemos D1 R2](https://img.shields.io/badge/Wemos_D1_R2-E7352C?style=flat-square&logo=espressif&logoColor=white)
+
+**Hardware & Peripherals**
+
+![SX1272](https://img.shields.io/badge/SX1272-00A3E0?style=flat-square&logo=semtech&logoColor=white)
+![Wi-SUN FAN](https://img.shields.io/badge/Wi--SUN_FAN-0066CC?style=flat-square&logoColor=white)
+![WiFi](https://img.shields.io/badge/WiFi-0082FC?style=flat-square&logo=wifi&logoColor=white)
+![LTE EC200U-CN](https://img.shields.io/badge/LTE_EC200U--CN-E60012?style=flat-square&logoColor=white)
 
 **Communication & Network Protocols**
 
@@ -32,6 +46,7 @@
 **Cloud & DevOps**
 
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Contabo](https://img.shields.io/badge/Contabo-0F4C81?style=flat-square&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Node-RED](https://img.shields.io/badge/Node--RED-8F0000?style=flat-square&logo=nodered&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
@@ -43,11 +58,13 @@
 ![HiveMQ](https://img.shields.io/badge/HiveMQ-FFAA00?style=flat-square&logo=hivemq&logoColor=black)
 ![ChirpStack](https://img.shields.io/badge/ChirpStack-46B0D6?style=flat-square&logoColor=white)
 ![TTN](https://img.shields.io/badge/TTN-48B5E9?style=flat-square&logoColor=white)
+![LORIOT](https://img.shields.io/badge/LORIOT-009FE3?style=flat-square&logoColor=white)
 
 **Tools & IDEs**
 
+![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-00979D?style=flat-square&logo=arduino&logoColor=white)
+![ESP-IDF](https://img.shields.io/badge/ESP--IDF-E7352C?style=flat-square&logo=espressif&logoColor=white)
 ![STM32CubeIDE](https://img.shields.io/badge/STM32CubeIDE-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GDB](https://img.shields.io/badge/GDB-A42E2B?style=flat-square&logoColor=white)
